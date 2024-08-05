@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa; /* Bootstrap의 기본 배경색 */
+}
+
+.container {
+    text-align: center;
+}
+
+
+h1 {
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 5px;
+}
